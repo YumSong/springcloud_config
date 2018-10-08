@@ -3,7 +3,7 @@ server:
 
 eureka:
   instance:
-    hostname: hongto-w10.corp.oocl.com
+    hostname: localhost
   client:
     registerWithEureka: false
     fetchRegistry: false
