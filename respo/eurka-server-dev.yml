@@ -1,3 +1,6 @@
+foo:
+  test: hello
+
 server:
   port: 8761
 
